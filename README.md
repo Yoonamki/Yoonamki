@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=NamkiYoo&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=NAMKI YOO&fontSize=70&animation=twinkling)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -18,7 +18,7 @@
 <br><br>
 <h3 align="center"> 🕴 NAMKI </h3>
 <p align="center">
-  <a href="https://github.com/Yoonamki"><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Yoonamki"/></a>&nbsp
+  <a href="https://github.com/Yoonamki"><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/Yoonamki"/></a>&nbsp
   <a href="https://www.instagram.com/namki0111/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/namki0111/"/></a>&nbsp
   <a href="mailto:ubaechu@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ubaechu@gmail.com"/></a>
 </p>
