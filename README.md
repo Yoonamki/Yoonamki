@@ -24,6 +24,6 @@
 </p>
 <br>
 
-<div align="center">
+<div align=center>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoonamki&layout=compact)](https://github.com/Yoonamki/github-readme-stats)
 </div>
